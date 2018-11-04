@@ -1,4 +1,4 @@
-# ProductCatalog
+# Product Catalog
 A simple MVC application consuming a Web API
 
  
